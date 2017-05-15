@@ -1,0 +1,50 @@
+{
+    "errno": 0,
+    "list": [{
+        "User": "Lina",
+        "Group": "User",
+        "Registered": "2013-9-23",
+        "Status": "Active"
+    }, {
+        "User": "Brone",
+        "Group": "User",
+        "Registered": "2013-12-12",
+        "Status": "Leave"
+    }, {
+        "User": "Bob",
+        "Group": "User",
+        "Registered": "2014-3-3",
+        "Status": "Active"
+    }, {
+        "User": "Lucky",
+        "Group": "User",
+        "Registered": "2014-3-2",
+        "Status": "Active"
+    }, {
+        "User": "Davice",
+        "Group": "User",
+        "Registered": "2015-5-4",
+        "Status": "Active"
+    }, {
+        "User": "Greefen",
+        "Group": "User",
+        "Registered": "2013-7-15",
+        "Status": "Active"
+    }, {
+        "User": "Paul",
+        "Group": "User",
+        "Registered": "2017-3-10",
+        "Status": "Coming"
+    }, {
+        "User": "Curry",
+        "Group": "User",
+        "Registered": "2013-9-20",
+        "Status": "Leave"
+    }, {
+        "User": "Kyrie",
+        "Group": "Admin",
+        "Registered": "2013-1-20",
+        "Status": "Active"
+    }]
+
+}
